@@ -5,4 +5,4 @@ class Person
     @name = name
   end
 end 
-adele_goldberg = 
+adele_goldberg = Person.new 
