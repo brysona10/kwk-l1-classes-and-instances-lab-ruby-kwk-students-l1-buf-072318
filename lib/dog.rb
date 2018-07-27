@@ -1,5 +1,5 @@
 # dog.rb
 
 class Dog
-  attr_reader :class
+  attr_reader :name
 end
